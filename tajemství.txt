@@ -1,3 +1,5 @@
+Teď tu zkouším větvení!
+
 Zkouška pullnutí na local
 
 není to tajemství! Protože už se to ví...
@@ -7,4 +9,6 @@ Ještě je potřeba tohle změnit.
 A doplnit, že je potřeba to zaznamenat pomocí commitu!
 
 Všechno se dá poslat na remote (do cloudu) pomocí Pushe. Lze uploudovat po commitech.
+
+Merge conflict - pokud dva lidi mění stejnou část ve stejný čas a git to nestihne zaznamenat - pravidelně necommittují...
 
