@@ -2,3 +2,7 @@
 
 není to tajemství! Protože už se to ví...
 
+Ještě je potřeba tohle změnit.
+
+A doplnit, že je potřeba to zaznamenat pomocí commitu!
+
