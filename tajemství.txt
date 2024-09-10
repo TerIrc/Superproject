@@ -6,3 +6,5 @@ Ještě je potřeba tohle změnit.
 
 A doplnit, že je potřeba to zaznamenat pomocí commitu!
 
+Všechno se dá poslat na remote (do cloudu) pomocí Pushe. Lze uploudovat po commitech.
+
